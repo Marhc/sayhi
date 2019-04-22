@@ -1,2 +1,2 @@
 # sayhi
-Very simple "Hello World" example.
+A very simple "Hello World" example.
