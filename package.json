@@ -1,12 +1,12 @@
 {
   "name": "@marhc/sayhi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Very simple \"Hello World\" example.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "git push origin master",
-    "publish": "npm publish --access public"
+    "publish": "npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
